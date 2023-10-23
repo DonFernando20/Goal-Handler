@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goal-handler/static/css/main.f3229784.css",
+    "main.js": "/goal-handler/static/js/main.8fff7f4b.js",
+    "index.html": "/goal-handler/index.html",
+    "main.f3229784.css.map": "/goal-handler/static/css/main.f3229784.css.map",
+    "main.8fff7f4b.js.map": "/goal-handler/static/js/main.8fff7f4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3229784.css",
+    "static/js/main.8fff7f4b.js"
+  ]
+}
